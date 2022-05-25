@@ -1,0 +1,12 @@
+---
+title: "README"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Observatório Covid-19 BR
+
+We are a group of voluntary scientists form to bring to the public debate of Covid-19 pandemic scientifically accurate informations.
