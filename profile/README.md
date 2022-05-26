@@ -3,8 +3,8 @@
 
 ## Who we are?
 
-A voluntary group of scientists dedidcated to bring scientifically accurate informationes of Covid-19 pandemic. 
-We maintain an website with estimates about Covid-19 pandemic cases and we produce content to the social media aobut this discussions and estimates.
+A voluntary group of scientists dedidcated to bring scientifically accurate informationes of Covid-19 pandemic to public debate. 
+We maintain a website with estimates about Covid-19 pandemic cases and we produce content to the social media aobut this discussions and estimates.
 
 [https://covid19br.github.io/](https://covid19br.githubu.io)
 
