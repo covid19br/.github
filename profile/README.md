@@ -1,4 +1,4 @@
-## Observatório Covid-19 BR
+# Observatório Covid-19 BR
 
 
 ## Who we are?
